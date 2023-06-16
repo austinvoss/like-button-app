@@ -1,0 +1,17 @@
+p {
+  margin-top: 12rem;
+  color: #dadada;
+  text-align: left;
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+p.clicked {
+  color: #eb2fa4;
+}
