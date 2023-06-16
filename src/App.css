@@ -1,6 +1,6 @@
 p {
   margin-top: 12rem;
-  color: #dadada;
+  color: #eb2fa4;
   text-align: left;
   cursor: pointer;
   user-select: none;
@@ -10,8 +10,4 @@ p {
   display: flex;
   align-items: center;
   justify-content: center;
-}
-
-p.clicked {
-  color: #eb2fa4;
 }
